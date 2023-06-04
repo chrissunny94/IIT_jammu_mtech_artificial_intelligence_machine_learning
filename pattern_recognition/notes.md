@@ -112,6 +112,8 @@ June 4th 2023
 - Bayes Rules 
 -  
 
+![Alt text](docs/bayes_theory.png "a title")
+
 Feature vector
     - de dimensional vector 
     - Feature space
@@ -153,6 +155,7 @@ P(X,W) = P(w) . P(X/w)
 Evidenence
 Prosterior probabilty 
 
+![Alt text](docs/prior_probability.png "a title")
 
 
 Joint probability distribution
