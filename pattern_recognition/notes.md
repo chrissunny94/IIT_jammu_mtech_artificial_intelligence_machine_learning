@@ -5,6 +5,8 @@ Chain Codes ()
 
 https://ojskrede.github.io/inf4300/notes/week_04/
 
+https://classroom.google.com/c/NTIyNTk3MTg5NTg4?cjc=67ov7no
+
 
 
 - convert set of points into numerical value 
