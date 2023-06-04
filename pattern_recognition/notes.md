@@ -7,6 +7,8 @@ https://ojskrede.github.io/inf4300/notes/week_04/
 
 https://classroom.google.com/c/NTIyNTk3MTg5NTg4?cjc=67ov7no
 
+80% theory+20% assg
+80% (CT1+ms+ct2+endsem)
 
 
 - convert set of points into numerical value 
