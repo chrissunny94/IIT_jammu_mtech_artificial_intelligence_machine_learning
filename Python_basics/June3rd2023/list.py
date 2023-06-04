@@ -89,7 +89,7 @@ print(sec_high)
 # print ("name Of company:",output_string[1])
     
 
-
+#https://favtutor.com/blogs/reverse-list-python#:~:text=We%20can%20reverse%20the%20list,list%20in%20the%20reverse%20order.
 # Updated my code
 email = "test@iitjammu.xyz.gbc"
 org = email.split('@')

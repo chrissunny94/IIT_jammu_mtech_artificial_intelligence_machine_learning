@@ -93,6 +93,63 @@ What happens , when we change the starting point ?
             - Unique chain code for the particular object 
     - Order of the shape no
 
+- Data collection 
+- Pattern recognition 
+- make them invariant of the rotation
+    - Difference in the consecutive numbers
+    - Max magnitude or minimum magnitude
+
+
+
 
 -----------------------------------------------------------------------------
 ==========   28th May 2023 =====================
+
+
+
+June 4th 2023
+
+- Bayes Rules 
+-  
+
+Feature vector
+    - de dimensional vector 
+    - Feature space
+    quadratic function for classification 
+
+
+Decision Boundary 
+
+BOX classifier
+
+Artificial Neural Networks
+
+- 
+
+
+Beysian theory 
+-  it makes the assumtion that 
+    - Its known as the prior
+    Notation and probability
+        - Sea bass(ω1)
+        - Salmon (ω2)
+
+P(ω1) --> next fish is a sea bass , or
+P(w2) --> next fish is a salmon .
+
+P(w1) + P(w2) = 1
+
+Notations and probability 
+- fish is associated with features and weight 
+    - 
+
+Conditinal probability 
+
+- P(w2=salmon | x= heavy ) = 40/43 * 
+
+
+Joint probability distribution
+
+
+Linear classifier
+Quadratic classifier
