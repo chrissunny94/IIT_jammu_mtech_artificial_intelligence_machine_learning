@@ -148,8 +148,22 @@ Conditinal probability
 - P(w2=salmon | x= heavy ) = 40/43 * 
 
 
+P(X,W) = P(w) . P(X/w)
+
+Evidenence
+Prosterior probabilty 
+
+
+
 Joint probability distribution
 
 
 Linear classifier
 Quadratic classifier
+
+
+Evidence probability vs Prior Probability 
+
+
+
+
