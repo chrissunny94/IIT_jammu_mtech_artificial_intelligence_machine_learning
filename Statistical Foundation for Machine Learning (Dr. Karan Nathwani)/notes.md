@@ -77,5 +77,55 @@ Eigenvector
     - 
 
 
+Suppose that matrix A has n linearly independent eigenvectors 
+
+Concatenate eigen vectors to form matrix V
+
+Concatenate eigenvalues to form vector 
+
+Eigendecomposition of A is given by
+
+
+
+Positive definite matrix 
+
+- When eigne values are more than zero and 
+    - positive semidefinite
+- If Eigen values are all negative 
+    - Positive definite matrices guarantee 
+
+SVD(Singular Value Decomposition)
+
+- SVD is applied is when our matrix is not Square
+- A = UDV^t
+
+
+
+
+Psuedo Inverse
+
+
+Moore-Penrose Pseudoinverse
+
+
+Trace of a Matrix
+
+Frobenius norm 
+
+Determinanent of a matrix 
+
+PCA (Principal Component Analysis)
+
+Probability 
+
+
+Random Variable is a mapping function from the space U onto real number 
+
+If U has a space E1 , E2 , E3 ....
+
+
+
+
+
 
 
