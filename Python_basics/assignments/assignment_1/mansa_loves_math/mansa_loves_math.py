@@ -27,15 +27,15 @@ ini_str = "abc"
 #print("Initial string", ini_str)
 number_of_input = int(input())
 OUTPUT_ = []
-element_divisible = False
+element_divisible = "YES"
 for input_x  in range(number_of_input):
     # Finding all permutation
     input_x = input()
     permutation = [''.join(p) for p in permutations(str(input_x))]
-    element_divisible = False
+    element_divisible = "NO"
     for element in permutation:
         if (int(element)%8 ==0):
-            element_divisible = True
+            element_divisible = "YES"
             break
     OUTPUT_.append(element_divisible)
 
