@@ -161,6 +161,14 @@ Multivariant distribution
 
 
 
+[0:03 pm, 02/07/2023] Shivam Sharma Iit Jammu: Write equation of individual components, integrate and use log as well
+[0:03 pm, 02/07/2023] Shivam Sharma Iit Jammu: What individual comports mean and variance ??
+
+[0:04 pm, 02/07/2023] Koustav Ghosh Iit Jammu: Normal distribution will come up
+[0:04 pm, 02/07/2023] Koustav Ghosh Iit Jammu: From the probability function you need to get it
+
+
+
 
 
 

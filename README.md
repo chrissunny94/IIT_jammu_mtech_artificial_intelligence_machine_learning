@@ -13,9 +13,15 @@
 
 
 
+
+
+https://docs.google.com/spreadsheets/d/1RhoGDk1rv0c4hF3q89EuDfmoGMaYidndA2N6-tiHw2o/edit?usp=sharing
+
 5/July/2023 - Assignment Submission - Statistical Foundation for Machine Learning
+5/July/2023 - Assignment Submission - Python
+8/July/2023 - Quiz - Python
 8/July/2023 - Quiz - Artificial and Computational Intelligence
+8/July/2023 - Assignment Submission - Pattern Recognition
 9/July/2023 - Quiz - Pattern Recognition
 9/July/2023 - Quiz - Statistical Foundation for Machine Learning
 15/July/2023 - Assignment Submission - Artificial and Computational Intelligence
-8th Jult Pattern Recognition Assignment Submission
