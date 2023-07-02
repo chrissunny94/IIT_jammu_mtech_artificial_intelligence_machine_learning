@@ -124,6 +124,41 @@ Random Variable is a mapping function from the space U onto real number
 If U has a space E1 , E2 , E3 ....
 
 
+Posterior = Pior X Likelihood 
+
+
+Baysian theorm , 
+    - Prior
+    - Basis
+    - Variance 
+    - Covariance 
+
+
+Data augmentation 
+
+    - adding more evidences 
+    - Increasing the data 
+    - synthetic data
+    - 
+
+Markov Chain Monte Carlo 
+
+    - Variational Bayes
+
+
+Closed form solution 
+
+    - Gausian 
+    - Bernauli distribution 
+
+Metro polis hashing 
+
+P(w/D) = Likelihood X Prior
+
+Multivariant distribution 
+
+    - 
+
 
 
 

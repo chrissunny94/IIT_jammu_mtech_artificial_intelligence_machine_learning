@@ -172,5 +172,22 @@ Quadratic classifier
 Evidence probability vs Prior Probability 
 
 
+--------------------------
+
+
+- Gausian distribution 
+
+-https://leimao.github.io/blog/Multivariate-Gaussian-Covariance-Matrix/
+
+
+Parameter Estimation 
+
+- 
+Maximum Likelyhood Estimation 
+ Likelyhood vs Probability 
+
+ https://medium.com/swlh/probability-vs-likelihood-cdac534bf523
+
+
 
 
