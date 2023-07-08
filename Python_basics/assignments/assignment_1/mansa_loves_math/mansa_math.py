@@ -1,6 +1,6 @@
 import sys
 
-class Mansa(object):
+
     def solve(self, input_string):
         l = len(input_string)
         if l == 1:
