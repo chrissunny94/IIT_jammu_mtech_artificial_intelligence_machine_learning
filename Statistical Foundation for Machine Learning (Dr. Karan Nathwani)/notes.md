@@ -170,5 +170,28 @@ Multivariant distribution
 
 
 
+Entropy 
+
+H = -I 
+H = -log_base_2(p) where p 0<p<1
+Range 0 <  H < Infinity
+
+H = 1 = 0  at p =1 
+
+The reason why is logarithimic , it makes the product into summation .
+
+Total information is 
+
+Imn = log_2(pm pn) = log_2(pm) + log_2(pn)
+
+                   = Im + In
+
+
+example , 26 letters of the alphabet .
+
+Find H(x) = all of them are equiprobable . 
+
+Ensimble of entropy . 
+
 
 
