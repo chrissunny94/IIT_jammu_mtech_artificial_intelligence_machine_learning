@@ -189,5 +189,5 @@ Maximum Likelyhood Estimation
  https://medium.com/swlh/probability-vs-likelihood-cdac534bf523
 
 
-
+Fukunaga Hostler
 

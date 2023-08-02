@@ -193,5 +193,9 @@ Find H(x) = all of them are equiprobable .
 
 Ensimble of entropy . 
 
+Multiple events: 
 
+https://seeing-theory.brown.edu/compound-probability/index.html
+
+https://www.rosroboticslearning.com/jacobian
 

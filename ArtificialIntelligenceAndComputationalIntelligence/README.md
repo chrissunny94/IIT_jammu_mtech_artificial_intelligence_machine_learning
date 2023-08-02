@@ -23,3 +23,8 @@
             - repeat this twice to get 4l
 
 - map colouring 
+
+
+https://visualgo.net/en
+
+
