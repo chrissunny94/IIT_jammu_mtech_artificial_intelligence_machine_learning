@@ -28,3 +28,13 @@
 https://visualgo.net/en
 
 
+Mid-Sem exam topics:
+- Agents and types
+- AI architecture
+- performance measures
+- arrays
+- linked list
+- graph problems like degree 
+- finding cycles. 
+
+Searching a node in graph (example tic-tac-toe, 8-puzzle), state space, search tree, random search, dfs, bfs, dls.
