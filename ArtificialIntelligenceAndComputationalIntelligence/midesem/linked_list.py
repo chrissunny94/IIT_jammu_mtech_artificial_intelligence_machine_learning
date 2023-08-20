@@ -50,7 +50,7 @@ l.add( 'a' )
 l.add( 'b' )
 l.add( 'c' )
 
-print l
+print( l)
 l.remove( l.search( 'b' ) )
 print
-print l
+print (l)
