@@ -1,0 +1,20 @@
+['Naatu', 'Naatu', 'Naatu', 'Naatu']0['Naatu', 'Naatu', 'Veera', 'Naatu']0['Naatu', 'Naatu', 'Naatu', 'Naatu']0['Naatu', 'Naatu', 'Oora', 'Naatu']0['Naatu', 'Naatu', 'Naatu', 'Naatu']0
+['Naatu', 'Naatu', 'Veera', 'Naatu']0
+['Naatu', 'Naatu', 'Naatu', 'Naatu']0
+['Naatu', 'Naatu', 'Oora', 'Naatu']0
+['Naatu', 'Naatu', 'Naatu', 'Naatu']4
+['Naatu', 'Naatu', 'Veera', 'Naatu']3
+['Naatu', 'Naatu', 'Naatu', 'Naatu']4
+['Naatu', 'Naatu', 'Oora', 'Naatu']3
+NaatuNaatuNaatuNaatu4
+NaatuNaatuVeeraNaatu3
+NaatuNaatuNaatuNaatu4
+NaatuNaatuOoraNaatu3
+NaatuNaatuNaatuNaatu 4
+NaatuNaatuVeeraNaatu 3
+NaatuNaatuNaatuNaatu 4
+NaatuNaatuOoraNaatu 3
+ Naatu Naatu Naatu Naatu 4
+ Naatu Naatu Veera Naatu 3
+ Naatu Naatu Naatu Naatu 4
+ Naatu Naatu Oora Naatu 3
