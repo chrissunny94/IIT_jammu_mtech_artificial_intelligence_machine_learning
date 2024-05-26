@@ -1,0 +1,62 @@
+<calibration type=list>
+	<img.type type=vector names=FALSE length=1 as.numeric=FALSE >image</img.type>
+	<img.fpaths type=vector names=FALSE length=2 as.numeric=FALSE >
+		Run 1/Calibrate/Images/Left
+		Run 1/Calibrate/Images/Right
+	</img.fpaths>
+	<img.sub.dir type=vector names=FALSE length=2 as.numeric=FALSE >
+		Left
+		Right
+	</img.sub.dir>
+	<img.fnames type=vector names=FALSE length=8 as.numeric=FALSE >
+		DSC_0004.jpeg
+		DSC_0006.jpeg
+		DSC_0007.jpeg
+		DSC_0008.jpeg
+		DSC_0009.jpeg
+		DSC_0011.jpeg
+		DSC_0012.jpeg
+		DSC_0013.jpeg
+	</img.fnames>
+	<img.list.files type=vector names=FALSE length=2 as.numeric=FALSE >
+		Left
+		Right
+	</img.list.files>
+	<min.views type=vector names=FALSE length=1 as.numeric=TRUE >2</min.views>
+	<img.dir type=vector names=FALSE length=1 as.numeric=FALSE >Run 1/Calibrate/Images</img.dir>
+	<sq.size type=vector names=FALSE length=1 as.numeric=FALSE >6.35 mm</sq.size>
+	<nx type=vector names=FALSE length=1 as.numeric=TRUE >8</nx>
+	<ny type=vector names=FALSE length=1 as.numeric=TRUE >6</ny>
+	<corner.dir type=vector names=FALSE length=1 as.numeric=FALSE >Run 1/Calibrate/Corners</corner.dir>
+	<flip.view type=logical names=FALSE length=1 as.numeric=FALSE >FALSE</flip.view>
+	<verify.dir type=vector names=FALSE length=1 as.numeric=FALSE >Run 1/Calibrate/Images verify</verify.dir>
+	<cal.set.num type=vector names=FALSE length=1 as.numeric=TRUE >3</cal.set.num>
+	<cal.coeff type=matrix rownames=FALSE colnames=TRUE nrow=11 ncol=2 as.numeric=TRUE >
+		Left	Right
+		27.3525886302369	20.856388026512
+		-3.04021449798864	13.9161589258727
+		-3.58580678606629	-21.6805081036264
+		3009.3317676701	3320.89221328633
+		-1.93391695101206	17.1168518425293
+		-27.3558195699024	-27.7989863933785
+		0.898617628510706	-2.94773566884908
+		897.170743459101	1731.74279471547
+		0.000212707660775219	-0.00114041611193787
+		-0.000565226853949032	-0.000962515758340068
+		-0.0028170331316781	-0.00272840663486523
+	</cal.coeff>
+	<mean.reconstruct.rmse type=vector names=FALSE length=1 as.numeric=TRUE >0.101291972307225</mean.reconstruct.rmse>
+	<coefficient.rmse type=vector names=FALSE length=2 as.numeric=TRUE >
+		0.193694083790448
+		0.222026020461609
+	</coefficient.rmse>
+	<cal.sample.aspects type=vector names=FALSE length=6 as.numeric=FALSE >
+		DSC_0006
+		DSC_0007
+		DSC_0009
+		DSC_0011
+		DSC_0012
+		DSC_0013
+	</cal.sample.aspects>
+</calibration>
+
