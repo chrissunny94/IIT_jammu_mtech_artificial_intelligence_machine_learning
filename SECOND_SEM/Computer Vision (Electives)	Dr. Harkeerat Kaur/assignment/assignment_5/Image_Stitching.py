@@ -18,7 +18,7 @@ keypoint2, descriptor2 = sift.detectAndCompute(image2_gray,None)
 cv2.imshow('orig_img_lft_keypnts',cv2.drawKeypoints(image1,keypoint1,None))
 cv2.imwrite('output/orig_img_lft_keypnts.jpg',cv2.drawKeypoints(image1,keypoint1,None))
 cv2.imshow('orig_img_rght_keypnts',cv2.drawKeypoints(image2,keypoint2,None))
-cv2.imwrite('output/orig_img_rght_keypnts.jpg',cv2.drawKeypoints(image1,keypoint1,None))
+cv2.imwrite('output/orig_img_rght_keypnts.jpg',cv2.drawKeypoints(image2,keypoint1,None))
 
 #The FLANN method matches the features which are more similar. 
 FLANN_INDEX_KDTREE = 0
