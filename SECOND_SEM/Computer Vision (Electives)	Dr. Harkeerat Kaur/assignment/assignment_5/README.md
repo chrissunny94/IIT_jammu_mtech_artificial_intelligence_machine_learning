@@ -1,34 +1,3 @@
-# Harris corner detection .
-
-
-How to do?
-First capture a few images by rotating your mobile camera, such that there exist some scene
-overlapping.
-
-Manual Method [20] marks
-1. Apply Harris cornor or SIFT to extract feature points
-2. Manually select some feature points on each image.
-3. Find the homography matrix that align each pair of neighbor pictures.
-4. Transform the source image so as to be in the same projective space as the target image.
-5. Stitch images by taking the target image and placing it in the location given by the
-multiplication inverse of the homography matrix.
-
-Automatic Method [10 marks]
-1. Apply Harris cornor or SIFT to extract feature points
-2. Match feature points to find their correspondences.
-3. Find the homography matrix that align each pair of neighbor pictures.
-4. Transform the source image so as to be in the same projective space as the target image.
-5. Stitch images by taking the target image and placing it in the location given by the
-multiplication inverse of the homography matrix.
-
-Q2. Depth Estimation
-a. Take two images in epipolar view of your previous assignment. Rectifiy the images
-using cv.stereoRectifyUncalibrated lib function . Show slanted epipolar line ans parallel
-epipolar lines .
-b. Estimate depth maps of the two images
-c. Use multiple images of a scene to set a complete 3d depth models
-
-
 
 ## Calibrate the camera in use using a checkerboard .
 
@@ -62,7 +31,29 @@ After Undistorting  image
 ![image](output/test_undist.jpg)
 
 
-## Harris corner detection 
+# Harris corner detection .
+
+
+How to do?
+First capture a few images by rotating your mobile camera, such that there exist some scene
+overlapping.
+
+Manual Method [20] marks
+1. Apply Harris cornor or SIFT to extract feature points
+2. Manually select some feature points on each image.
+3. Find the homography matrix that align each pair of neighbor pictures.
+4. Transform the source image so as to be in the same projective space as the target image.
+5. Stitch images by taking the target image and placing it in the location given by the
+multiplication inverse of the homography matrix.
+
+Automatic Method [10 marks]
+1. Apply Harris cornor or SIFT to extract feature points
+2. Match feature points to find their correspondences.
+3. Find the homography matrix that align each pair of neighbor pictures.
+4. Transform the source image so as to be in the same projective space as the target image.
+5. Stitch images by taking the target image and placing it in the location given by the
+multiplication inverse of the homography matrix.
+
 
 ![](docs/harris.png)
 
@@ -109,3 +100,16 @@ Image 2
 final stiched output looks like this 
 
 ![](output/Stitched_Image.jpg)
+
+
+
+
+# Q2. Depth Estimation
+
+- Take two images in epipolar view of your previous assignment. Rectifiy the images
+using cv.stereoRectifyUncalibrated lib function . Show slanted epipolar line ans parallel
+epipolar lines .
+
+- Estimate depth maps of the two images
+
+- Use multiple images of a scene to set a complete 3d depth models
